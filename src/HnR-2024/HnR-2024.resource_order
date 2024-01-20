@@ -32,6 +32,7 @@
     {"name":"paladin_blonde_strip4","order":9,"path":"sprites/paladin_blonde_strip4/paladin_blonde_strip4.yy",},
     {"name":"dragon1_strip4","order":1,"path":"sprites/dragon1_strip4/dragon1_strip4.yy",},
     {"name":"male_elf_strip4","order":5,"path":"sprites/male_elf_strip4/male_elf_strip4.yy",},
+    {"name":"obj_init_menu","order":1,"path":"objects/obj_init_menu/obj_init_menu.yy",},
     {"name":"male_wizard_strip4","order":6,"path":"sprites/male_wizard_strip4/male_wizard_strip4.yy",},
     {"name":"female_elf_strip4","order":3,"path":"sprites/female_elf_strip4/female_elf_strip4.yy",},
     {"name":"red_knight_strip4","order":11,"path":"sprites/red_knight_strip4/red_knight_strip4.yy",},
