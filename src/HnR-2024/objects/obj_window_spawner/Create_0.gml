@@ -1,0 +1,1 @@
+alarm[0] = irandom_range(global.spawn_cd1, global.spawn_cd2)

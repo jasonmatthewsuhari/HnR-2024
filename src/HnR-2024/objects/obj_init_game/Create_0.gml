@@ -1,6 +1,6 @@
-///@description to init on load
+///@description to init on load new games
 window_set_fullscreen(true);
-audio_play_sound(bgm_killinginthename, 1, true);
+audio_play_sound(bgm_menu, 1, true);
 
 global.tokens = 0;
 global.paychecks = 0;
@@ -13,8 +13,6 @@ global.spawn_cd2 = 5;
 global.n_windows_low = 1;
 global.n_windows_high = 2;
 
-global.n_windowtypes = 2;
-global.window_order = ds_list_create();
-global.selected_windows = ds_list_create();
+
 
 global.start_time = current_time;
