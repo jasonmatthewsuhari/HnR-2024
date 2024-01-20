@@ -1,1 +1,2 @@
-draw_text_ext(x,y,global.player_dmg,5,500);
+draw_text_ext_transformed_color(x+1,y+1,global.player_dmg,5,500,size,size,0,c_black,c_black,c_black,c_black,1);
+draw_text_ext_transformed_color(x,y,global.player_dmg,5,500,size,size,0,3033318,3033318,1815796,1815796,1);
