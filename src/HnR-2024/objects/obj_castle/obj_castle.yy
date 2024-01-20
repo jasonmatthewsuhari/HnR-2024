@@ -1,15 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_timer",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
-  ],
+  "name": "obj_castle",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "UI",
-    "path": "folders/Objects/UI.yy",
+    "name": "TowerDefense",
+    "path": "folders/Objects/TowerDefense.yy",
   },
   "parentObjectId": null,
   "persistent": false,

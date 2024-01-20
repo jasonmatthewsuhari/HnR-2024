@@ -1,15 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_timer",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
-  ],
+  "name": "obj_shoplocal",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "UI",
-    "path": "folders/Objects/UI.yy",
+    "name": "Buttons",
+    "path": "folders/Objects/Buttons.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -27,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "Sprite30",
+    "path": "sprites/Sprite30/Sprite30.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

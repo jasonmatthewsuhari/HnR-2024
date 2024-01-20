@@ -7,7 +7,7 @@ global.tokens = 0;
 global.paychecks = 0;
 global.wave = 0;
 global.hp = 3;
-global.player_dmg = 1;
+global.player_dmg = 2;
 
 global.spawn_cd1 = 3;
 global.spawn_cd2 = 5;

@@ -12,8 +12,11 @@ Mini-Devlog? Devblog?
 
  Enemies finally die and get hitflashed! But I still have no clue why the emoticons aren't working -- they're a nice touch that'll make the enemies hopefully livelier. I'm considering putting the CCTV effect next, though this will have to wait a bit since I'll definitely have to make this effect on my own.
 
+ Going to start making some of the popups, I just took like 20 minutes to animate the REC sign and it sucked. Hopefully making the pixel art for these isn't too difficult lol. I need to load in some global variables before loading in the game itself (window_order, an array that keeps track of the order of all the windows) because everything is loaded in at the same time, so this is a good time to work on the main menu. I still don't have a title :')
+
  Things to fix:
  1.) save and loading system for some reason not saving nor loading
+ 2.) buttons are overlaying other unfocused windows
 
 
  -- CREDITS --
@@ -23,6 +26,9 @@ Mini-Devlog? Devblog?
 4.) Enemy Emoticons: Admurin's Emoticons by Admurin (https://admurin.itch.io/admurins-emoticons)
 5.) Miscellaneous Icons: Complete GUI Essential Pack [Paper, Wood, Metal, Hologram, Font] by Crusenho (https://crusenho.itch.io/complete-gui-essential-pack)
 6.) Killing in the Name (Rage Against the Machine) 8-bit Remix: 8-Bit Universe (https://www.youtube.com/watch?v=KMNOe9JLFc8)
+7.) Summer Memories #3: Arachno & Dualtrax (https://www.youtube.com/watch?v=IiFqN5L6IQM)
+8.) Shapeforms Audio (https://shapeforms.itch.io/shapeforms-audio-free-sfx)
+9.) Slash Effect: Cethiel (https://opengameart.org/content/weapon-slash-effect)
 
 -- GUYS READING REDDIT POSTS WHILE SOME GUY IN BACKGROUND IS DOING MINECRAFT PARKOUR --
 https://www.youtube.com/watch?v=hh8JgvLf3ZM
