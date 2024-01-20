@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_castle",
+    "path": "sprites/spr_castle/spr_castle.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

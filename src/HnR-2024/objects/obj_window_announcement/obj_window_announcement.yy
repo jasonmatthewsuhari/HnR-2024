@@ -4,7 +4,10 @@
   "name": "obj_window_announcement",
   "eventList": [],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_window_parent","path":"objects/obj_window_parent/obj_window_parent.yy",},"propertyId":{"name":"offsetx","path":"objects/obj_window_parent/obj_window_parent.yy",},"value":"367",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_window_parent","path":"objects/obj_window_parent/obj_window_parent.yy",},"propertyId":{"name":"offsety","path":"objects/obj_window_parent/obj_window_parent.yy",},"value":"3",},
+  ],
   "parent": {
     "name": "Windows",
     "path": "folders/Objects/Windows.yy",
@@ -29,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_demon_spiner_strip4",
-    "path": "sprites/spr_demon_spiner_strip4/spr_demon_spiner_strip4.yy",
+    "name": "Sprite33",
+    "path": "sprites/Sprite33/Sprite33.yy",
   },
   "spriteMaskId": null,
   "visible": true,
