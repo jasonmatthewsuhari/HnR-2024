@@ -1,0 +1,1 @@
+draw_text_ext(x,y,global.player_dmg,5,500);

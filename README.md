@@ -8,7 +8,7 @@ Mini-Devlog? Devblog?
  
  It should probably be somewhat vampire-survivorsy with meta progression (permanent upgrades). 
 
- I'm going to start making the main game now, since I already imported the sprites. Speaking of the sprites, oh god they're too small.
+ I'm going to start making the main game now, since I already imported the sprites. Speaking of the sprites, oh god they're too small. Anyways, I'm going to work on the enemies and make it so that you can actually get rid of them. Added some damage numbers with the help of a guide, and will work on stylizing the text after a short break.
 
  Things to fix:
  1.) save and loading system for some reason not saving nor loading
@@ -17,6 +17,7 @@ Mini-Devlog? Devblog?
  -- CREDITS --
 1.) Enemy Sprites:  Dungeon Tileset by 0x72 (https://0x72.itch.io/dungeontileset-ii)
 2.) Guide on Saving and Loading: GameMaker (https://www.youtube.com/watch?v=i6aEyrRIzTY)
+3.) Guide on Generating Damage Numbers: 1up Indie (https://youtu.be/PQ8FZHprqOw?si=61hYYdTcOLAFX0e1)
 
 -- GUYS READING REDDIT POSTS WHILE SOME GUY IN BACKGROUND IS DOING MINECRAFT PARKOUR --
 https://www.youtube.com/watch?v=hh8JgvLf3ZM
