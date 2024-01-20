@@ -3,8 +3,8 @@ xx = 0;
 yy = 0;
 depth = 0;
 
-// set of code to generate a new button with specific offset
-var delete_button = instance_create_layer(x+350,y,"Popups", obj_deletebutton);
+// set of code to generate a new button with specific offsets 
+var delete_button = instance_create_layer(x+350,y,"Popups", obj_button_delete);
 delete_button.depth = depth - 1;
 delete_button.parent_window = id;
 delete_button.offsetx = 350;
