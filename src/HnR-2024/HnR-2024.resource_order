@@ -23,6 +23,8 @@
     {"name":"Windows","order":1,"path":"folders/Sprites/Windows.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"SFX","order":1,"path":"folders/Sounds/SFX.yy",},
+    {"name":"BGM","order":2,"path":"folders/Sounds/BGM.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_enemy_spawner","order":4,"path":"objects/obj_enemy_spawner/obj_enemy_spawner.yy",},
@@ -83,7 +85,6 @@
     {"name":"spr_demonboss_strip8","order":1,"path":"sprites/spr_demonboss_strip8/spr_demonboss_strip8.yy",},
     {"name":"rm_game","order":1,"path":"rooms/rm_game/rm_game.yy",},
     {"name":"UI_Emoticons_Free36","order":21,"path":"sprites/UI_Emoticons_Free36/UI_Emoticons_Free36.yy",},
-    {"name":"spr_path","order":3,"path":"sprites/spr_path/spr_path.yy",},
     {"name":"UI_Emoticons_Free1","order":25,"path":"sprites/UI_Emoticons_Free1/UI_Emoticons_Free1.yy",},
     {"name":"UI_Emoticons_Free26","order":11,"path":"sprites/UI_Emoticons_Free26/UI_Emoticons_Free26.yy",},
     {"name":"UI_Emoticons_Free38","order":23,"path":"sprites/UI_Emoticons_Free38/UI_Emoticons_Free38.yy",},

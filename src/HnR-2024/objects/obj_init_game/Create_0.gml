@@ -1,5 +1,5 @@
 ///@description to init on load
-window_set_fullscreen(true);
+audio_play_sound(bgm_killinginthename, 1, true);
 
 global.tokens = 0;
 global.paychecks = 0;

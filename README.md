@@ -10,6 +10,8 @@ Mini-Devlog? Devblog?
 
  I'm going to start making the main game now, since I already imported the sprites. Speaking of the sprites, oh god they're too small. Anyways, I'm going to work on the enemies and make it so that you can actually get rid of them. Added some damage numbers with the help of a guide, and will work on stylizing the text after a short break.
 
+ Enemies finally die and get hitflashed! But I still have no clue why the emoticons aren't working -- they're a nice touch that'll make the enemies hopefully livelier. I'm considering putting the CCTV effect next, though this will have to wait a bit since I'll definitely have to make this effect on my own.
+
  Things to fix:
  1.) save and loading system for some reason not saving nor loading
 
@@ -20,7 +22,12 @@ Mini-Devlog? Devblog?
 3.) Guide on Generating Damage Numbers: 1up Indie (https://youtu.be/PQ8FZHprqOw?si=61hYYdTcOLAFX0e1)
 4.) Enemy Emoticons: Admurin's Emoticons by Admurin (https://admurin.itch.io/admurins-emoticons)
 5.) Miscellaneous Icons: Complete GUI Essential Pack [Paper, Wood, Metal, Hologram, Font] by Crusenho (https://crusenho.itch.io/complete-gui-essential-pack)
+6.) Killing in the Name (Rage Against the Machine) 8-bit Remix: 8-Bit Universe (https://www.youtube.com/watch?v=KMNOe9JLFc8)
 
 -- GUYS READING REDDIT POSTS WHILE SOME GUY IN BACKGROUND IS DOING MINECRAFT PARKOUR --
 https://www.youtube.com/watch?v=hh8JgvLf3ZM
 https://www.youtube.com/watch?v=Xv42kMmID8I
+
+-- STRUGGLES --
+1.) GameMaker crashing every now and then
+2.) Ants invading my room
