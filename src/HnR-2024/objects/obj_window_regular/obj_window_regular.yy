@@ -6,7 +6,10 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_window_parent","path":"objects/obj_window_parent/obj_window_parent.yy",},"propertyId":{"name":"offsety","path":"objects/obj_window_parent/obj_window_parent.yy",},"value":"3",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_window_parent","path":"objects/obj_window_parent/obj_window_parent.yy",},"propertyId":{"name":"offsetx","path":"objects/obj_window_parent/obj_window_parent.yy",},"value":"367",},
+  ],
   "parent": {
     "name": "Windows",
     "path": "folders/Objects/Windows.yy",
@@ -30,7 +33,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_regularwindow",
+    "path": "sprites/spr_regularwindow/spr_regularwindow.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

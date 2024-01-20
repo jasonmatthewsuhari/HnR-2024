@@ -1,3 +1,3 @@
 event_inherited();
-sprite_index = choose(sprite_get("quackerspng"), sprite_get("skypng"));
-
+image_index = irandom(2);
+image_speed = 0;

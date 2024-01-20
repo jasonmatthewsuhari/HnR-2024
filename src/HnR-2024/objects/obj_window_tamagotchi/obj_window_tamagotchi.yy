@@ -28,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "UI_Emoticons_Free23",
-    "path": "sprites/UI_Emoticons_Free23/UI_Emoticons_Free23.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

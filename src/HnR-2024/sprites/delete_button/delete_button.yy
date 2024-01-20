@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "delete_button",
-  "bbox_bottom": 14,
+  "bbox_bottom": 29,
   "bbox_left": 0,
-  "bbox_right": 14,
+  "bbox_right": 29,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"df338a1c-b743-470a-8e0f-6b0067d4978b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"760a353d-bd28-44b5-b1fa-6df03530a934",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 15,
+  "height": 30,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9b61148d-a93d-4b13-831f-b4656bd00f71","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"567c4258-d463-4008-b4e7-c1c81c17499b","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"df338a1c-b743-470a-8e0f-6b0067d4978b","path":"sprites/delete_button/delete_button.yy",},},},"Disabled":false,"id":"7d2b9e81-5731-4c18-a643-239dc2f2df7e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"760a353d-bd28-44b5-b1fa-6df03530a934","path":"sprites/delete_button/delete_button.yy",},},},"Disabled":false,"id":"7b683154-94ea-4a56-94d3-cc0705c2b5db","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 15,
+  "width": 30,
 }

@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "UI_Emoticons_Free10",
-    "path": "sprites/UI_Emoticons_Free10/UI_Emoticons_Free10.yy",
+    "name": "spr_emoticons",
+    "path": "sprites/spr_emoticons/spr_emoticons.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -28,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_delete",
-    "path": "sprites/spr_delete/spr_delete.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
