@@ -19,6 +19,9 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
     {"name":"Enemies","order":13,"path":"folders/Sprites/Enemies.yy",},
+    {"name":"Windows","order":14,"path":"folders/Sprites/Windows.yy",},
+    {"name":"Buttons","order":4,"path":"folders/Objects/Buttons.yy",},
+    {"name":"Buttons","order":15,"path":"folders/Sprites/Buttons.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"orc_fighter_strip4","order":7,"path":"sprites/orc_fighter_strip4/orc_fighter_strip4.yy",},
