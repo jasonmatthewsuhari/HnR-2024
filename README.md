@@ -27,7 +27,9 @@ Mini-Devlog? Devblog?
 -- GUYS READING REDDIT POSTS WHILE SOME GUY IN BACKGROUND IS DOING MINECRAFT PARKOUR --
 https://www.youtube.com/watch?v=hh8JgvLf3ZM
 https://www.youtube.com/watch?v=Xv42kMmID8I
+https://www.youtube.com/watch?v=suNSpNXhiJ8
 
 -- STRUGGLES --
 1.) GameMaker crashing every now and then
 2.) Ants invading my room
+3.) Figuring out a realistic sim of OS
