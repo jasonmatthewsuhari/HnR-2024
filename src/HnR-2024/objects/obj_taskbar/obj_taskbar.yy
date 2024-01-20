@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_path",
+  "name": "obj_taskbar",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "TowerDefense",
-    "path": "folders/Objects/TowerDefense.yy",
+    "name": "UI",
+    "path": "folders/Objects/UI.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_taskbar",
+    "path": "sprites/spr_taskbar/spr_taskbar.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

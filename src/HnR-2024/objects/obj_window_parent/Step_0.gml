@@ -7,3 +7,4 @@ if(being_dragged){
 else {
 	exit;
 }
+deletebutton.depth = depth - 1;

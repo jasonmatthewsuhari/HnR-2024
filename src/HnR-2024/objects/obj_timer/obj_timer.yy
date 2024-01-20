@@ -1,13 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_path",
-  "eventList": [],
+  "name": "obj_timer",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "TowerDefense",
-    "path": "folders/Objects/TowerDefense.yy",
+    "name": "Controllers",
+    "path": "folders/Objects/Controllers.yy",
   },
   "parentObjectId": null,
   "persistent": false,

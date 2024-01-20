@@ -1,6 +1,7 @@
 ///@description to init on load new games
 window_set_fullscreen(true);
-audio_play_sound(bgm_menu, 1, true);
+audio_stop_all();
+audio_play_sound(bgm_game, 1, true);
 
 global.tokens = 0;
 global.paychecks = 0;

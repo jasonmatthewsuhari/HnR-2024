@@ -1,4 +1,4 @@
-window_set_fullscreen(true);
+audio_play_sound(bgm_menu,1,true);
 
 global.coins = 0;
 global.lvl = 1;
