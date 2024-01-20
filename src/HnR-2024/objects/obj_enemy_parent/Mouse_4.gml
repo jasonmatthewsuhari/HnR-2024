@@ -1,6 +1,6 @@
 // for dmg
 if(flash == 0) {
-	if(enemy_hp - 1 < 0) {
+	if(enemy_hp - 2 < 0) {
 	instance_destroy();
 }
 	enemy_hp -= global.player_dmg;

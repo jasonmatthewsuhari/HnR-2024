@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "UI_Emoticons_Free53",
+  "name": "UI_Emoticons_Free38",
   "bbox_bottom": 47,
   "bbox_left": 16,
   "bbox_right": 47,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c9859cf6-5c9b-4137-bb68-f113ae13f8d6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3ea9c277-8678-4c85-9027-2db7bc68e787",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 64,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"52edc19b-29fa-4831-8ee0-d12c11a2fcdd","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"42cacbdd-281c-44e3-a27e-826f38ec9144","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "UI_Emoticons_Free53",
+    "name": "UI_Emoticons_Free38",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c9859cf6-5c9b-4137-bb68-f113ae13f8d6","path":"sprites/UI_Emoticons_Free53/UI_Emoticons_Free53.yy",},},},"Disabled":false,"id":"c50991ff-75b3-4473-8be7-179d4084697e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3ea9c277-8678-4c85-9027-2db7bc68e787","path":"sprites/UI_Emoticons_Free38/UI_Emoticons_Free38.yy",},},},"Disabled":false,"id":"8bc96ef4-d57c-4a6d-b356-81e42a7624c5","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
