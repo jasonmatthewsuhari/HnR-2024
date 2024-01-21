@@ -1,6 +1,7 @@
 being_dragged = true;
 xx = x - mouse_x;
 yy = y - mouse_y;
+focused = true;
 
 ds_list_add(global.selected_windows, id);
 

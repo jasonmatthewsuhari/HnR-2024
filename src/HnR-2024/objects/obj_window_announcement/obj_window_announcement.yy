@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_window_announcement",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_window_parent","path":"objects/obj_window_parent/obj_window_parent.yy",},"propertyId":{"name":"offsetx","path":"objects/obj_window_parent/obj_window_parent.yy",},"value":"367",},
@@ -32,8 +35,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite33",
-    "path": "sprites/Sprite33/Sprite33.yy",
+    "name": "spr_window_announcement",
+    "path": "sprites/spr_window_announcement/spr_window_announcement.yy",
   },
   "spriteMaskId": null,
   "visible": true,

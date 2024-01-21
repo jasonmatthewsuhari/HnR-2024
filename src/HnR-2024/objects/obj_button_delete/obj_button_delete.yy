@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "delete_button",
-    "path": "sprites/delete_button/delete_button.yy",
+    "name": "spr_delete_button",
+    "path": "sprites/spr_delete_button/spr_delete_button.yy",
   },
   "spriteMaskId": null,
   "visible": true,

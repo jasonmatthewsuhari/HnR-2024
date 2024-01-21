@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite30",
-    "path": "sprites/Sprite30/Sprite30.yy",
+    "name": "spr_shop",
+    "path": "sprites/spr_shop/spr_shop.yy",
   },
   "spriteMaskId": null,
   "visible": true,
