@@ -13,7 +13,9 @@ if(self_index == rightmost_index) {
 
 	for(var i = 0; i < ds_list_size(global.window_order); i++) {
 	    var window_id = global.window_order[| i];
-	    window_id.depth = -i*2;
+	    if(instance_exists(window_id)) {
+			window_id.depth = -i*2;
+		}
 	}
 	
 	ds_list_clear(global.selected_windows);

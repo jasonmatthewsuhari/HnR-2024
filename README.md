@@ -31,6 +31,7 @@ Mini-Devlog? Devblog?
 8.) Shapeforms Audio (https://shapeforms.itch.io/shapeforms-audio-free-sfx)
 9.) Slash Effect: Cethiel (https://opengameart.org/content/weapon-slash-effect)
 10.) 8-Bit Sound Effects (https://horror-studio.itch.io/8bit-sfx-pack-100-pack)
+11.) Adhesive Wombat: Night Shade (https://youtu.be/mRN_T6JkH-c?si=jnSsinOBAXQ3MjPU)
 
 -- GUYS READING REDDIT POSTS WHILE SOME GUY IN BACKGROUND IS DOING MINECRAFT PARKOUR --
 https://www.youtube.com/watch?v=hh8JgvLf3ZM
