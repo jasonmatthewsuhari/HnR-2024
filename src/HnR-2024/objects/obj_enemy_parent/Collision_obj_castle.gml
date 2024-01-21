@@ -1,5 +1,5 @@
 if(can_attack) {
-	global.hp -= enemy_damage;
+	global.hp -= 1;
 	can_attack = false;
 	alarm[2] = room_speed * 3;
 	with(obj_castle) {

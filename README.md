@@ -1,7 +1,10 @@
 # HnR 2024
-Mini-Devlog? Devblog?
- Jason Matthew Suhari's individual submission for HnR 2024. The concept is to make some sort of desktop simulation where there's a primary failstate you have to avoid (I don't know, maybe you're rushing to do an assignment?) and you're constantly being disrupted by popups and notifications. I was inspired by games such as There Is No Game and weirdly enough, Keep Talking And Nobody Explodes.
 
+ Jason Matthew Suhari's individual submission for HnR 2024. The concept is to make some sort of desktop simulation where there's a primary failstate you have to avoid (I don't know, maybe you're rushing to do an assignment?) and you're constantly being disrupted by popups and notifications. I was inspired by games such as There Is No Game and chaos-games such as Keep Talking And Nobody Explodes.
+
+I sincerely hope you enjoy the experience, although the game is not even half of what I envisioned it to be :')
+
+ Mini-Devlog? Devblog?
  Some of the pixel art assets were taken from itch.io (credited accordingly, further down in this file and in the game itself as well hopefully), but I am planning on making some of the pixel art assets myself -- can't find any pixel OS windows. The first step is to make the disruptors: the windows. I got the drag-and-drop working, but now I need to make it so that the player can actually delete the windows (and later on, make it so that the windows function like actual windows with how they stack).
 
  I did this by generating a separate delete button that just follows the window around, and carries a "parent_window" variable upon creation that is just the id of the original window. Also I'm trying to think of what to name the game, I want it to be something that plays with the term "9-to-5" since I see it as a game about some demon dude working his job as a CCTV watcher (I don't know the term).
@@ -32,13 +35,4 @@ Mini-Devlog? Devblog?
 9.) Slash Effect: Cethiel (https://opengameart.org/content/weapon-slash-effect)
 10.) 8-Bit Sound Effects (https://horror-studio.itch.io/8bit-sfx-pack-100-pack)
 11.) Adhesive Wombat: Night Shade (https://youtu.be/mRN_T6JkH-c?si=jnSsinOBAXQ3MjPU)
-
--- GUYS READING REDDIT POSTS WHILE SOME GUY IN BACKGROUND IS DOING MINECRAFT PARKOUR --
-https://www.youtube.com/watch?v=hh8JgvLf3ZM
-https://www.youtube.com/watch?v=Xv42kMmID8I
-https://www.youtube.com/watch?v=suNSpNXhiJ8
-
--- STRUGGLES --
-1.) GameMaker crashing every now and then
-2.) Ants invading my room
-3.) Figuring out a realistic sim of OS
+12.) Slynyrd: castle (https://www.pinterest.com/pin/castle-made-with-slynyrd-tutorial-pixelart--827958712736512277/)
